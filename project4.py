@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 
-# Multimedia Computing Project
+
 # Digital Image Processing/Computer Vision/Machine Learning
 # 
-# Done by: U1610146 Mirzashomol Karshiev
+# Done by: Mirzashomol Karshiev
 #
 # Image Classification using SVM machine learning algorithm
 #
