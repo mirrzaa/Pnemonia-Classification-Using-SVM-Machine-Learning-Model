@@ -2,8 +2,9 @@
 Testing lung images for covid-19 using SVM machine learning model and Sobel filtering for filtering the noicy image
 
 <h1>1.Load Dataset</h1>
-
+<p align="center">
 ![first_image](/images/presentation/1.png)
+</p>
 <h1>2.Gaussian Blur</h1>
 
 ![first_image](/images/presentation/3.png)
