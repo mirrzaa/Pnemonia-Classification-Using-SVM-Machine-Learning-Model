@@ -3,7 +3,7 @@ Testing lung images for covid-19 using SVM machine learning model and Sobel filt
 
 <h1>1.Load Dataset</h1>
 <p align="center">
-![first_image](/images/presentation/1.png)
+<img src="https://github.com/mirrzaa/Pnemonia-Classification-Using-SVM-Machine-Learning-Model/tree/master/images/presentation/1.png" />
 </p>
 <h1>2.Gaussian Blur</h1>
 
